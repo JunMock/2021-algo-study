@@ -1,4 +1,4 @@
-package backjoon_1181_단어정렬;
+package baekjoon_1181_단어정렬;
 
 import java.io.*;
 import java.util.*;
