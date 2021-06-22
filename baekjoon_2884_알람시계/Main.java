@@ -2,8 +2,7 @@ package baekjoon_2884_알람시계;
 
 import java.io.*;
 import java.util.*;
-
-// 14256KB 132ms
+//14240KB	124ms
 public class Main {
     static int H, M;
 
@@ -20,11 +19,9 @@ public class Main {
         if (M < 0) {
             if (H == 0)
                 H = 24;
-            H = H - 1;
-            M = 60 + M;
+            bw.write(sb.append(--H).append(" ").append(60 + M).toString());
         }
-
-        bw.write(sb.append(H).append(" ").append(M).toString());
+        else bw.write(sb.append(H).append(" ").append(M).toString());
 
         br.close();
         bw.flush();
