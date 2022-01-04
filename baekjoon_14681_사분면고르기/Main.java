@@ -1,7 +1,6 @@
 package baekjoon_14681_사분면고르기;
 
 import java.io.*;
-import java.util.*;
 
 // 14204 KB 132 MS
 public class Main {
