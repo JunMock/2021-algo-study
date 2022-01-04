@@ -1,9 +1,9 @@
-package baekjoon_7868_덩치;
+package baekjoon_7568_덩치;
 
 import java.io.*;
 import java.util.*;
 
-// KB MS
+// 15740 KB  140 MS
 public class Main {
 
     public static void main(String args[]) throws NumberFormatException, IOException {
