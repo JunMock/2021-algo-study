@@ -1,7 +1,6 @@
 package baekjoon_2577_숫자의개수;
 
 import java.io.*;
-import java.util.*;
 
 // 14236 KB 124 MS
 public class Main {
