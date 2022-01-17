@@ -1,7 +1,6 @@
 package baekjoon_8958_OX퀴즈;
 
 import java.io.*;
-import java.util.*;
 
 // 14440 KB 128 MS
 public class Main {
