@@ -3,7 +3,7 @@ package baekjoon_1157_단어공부;
 import java.io.*;
 import java.util.*;
 
-// 14308 KB 128 MS
+// 129788 KB 692 MS
 public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
